@@ -1,3 +1,5 @@
 - i paint
 - i don't paint
 - i learn code
+- i study at whitecliffe
+
